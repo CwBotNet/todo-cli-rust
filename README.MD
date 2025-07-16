@@ -92,14 +92,3 @@ Enter the task number you want to update:
 
 MIT License - Free to use and modify
 ```
-
-This README includes:
-1. Clear project description
-2. Installation instructions
-3. Comprehensive command documentation
-4. File format specification
-5. Dependency information
-6. Usage examples
-7. License information
-
-You may want to customize the license section if you're using a different license, and add your contact information if you want users to be able to reach you with questions.
